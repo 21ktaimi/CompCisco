@@ -1,5 +1,6 @@
 // Implementa en Java el método escribir, el cual recibe muestra por pantalla “Hola”
 
+//Comentario de prueba
 import java.util.Scanner;
 
 public class ejr0 {
